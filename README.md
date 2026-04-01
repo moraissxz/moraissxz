@@ -12,6 +12,15 @@ Sou desenvolvedor com foco em backend, com experiência na construção de aplic
 
 Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projetos completos que envolvem desde a modelagem do banco até a interface com o usuário.
 
+
+## 📚 Linguagens e tecnologias que estou estudando
+
+- Python
+- PHP
+- Javascript
+- Banco de dados (MySQL, PostgreSQL)
+- Java
+
 ---
 
 ## 🚀 Projetos em destaque
