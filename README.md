@@ -29,9 +29,9 @@ Sistema web completo com:
 
 ## 🛠️ Tecnologias
 
-- **Backend:** Python, Django  
+- **Backend:** Python, PHP
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Banco de Dados:** SQLite, PostgreSQL  
+- **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas:** Git, GitHub  
 
 ---
