@@ -12,7 +12,6 @@ Sou desenvolvedor com foco em backend, com experiência na construção de aplic
 
 Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projetos completos que envolvem desde a modelagem do banco até a interface com o usuário.
 
-
 ## 📚 Linguagens e tecnologias que estou estudando
 
 - Python
@@ -34,8 +33,6 @@ Sistema web completo com:
 
 🔗 Em breve deploy online
 
----
-
 ## 🛠️ Tecnologias
 
 - **Backend:** Python, PHP
@@ -54,4 +51,4 @@ Sistema web completo com:
 
 ## ⚡ Objetivo
 
-Atuar como desenvolvedor backend, contribuindo com soluções eficientes, escaláveis e bem estruturadas, enquanto continuo evoluindo tecnicamente e profissionalmente.
+Entrar no mercado de trabalho, a primeira mão trabalhando como desenvolvedor backend, contribuindo com soluções eficientes, escaláveis e bem estruturadas, enquanto continuo evoluindo tecnicamente e profissionalmente.
