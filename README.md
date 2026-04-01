@@ -16,7 +16,7 @@ Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projeto
 
 ## 🚀 Projetos em destaque
 
-### 🍦 Sistema de Vendas para Sorveteria
+### Sistema de Vendas para Sorveteria
 Sistema web completo com:
 - Carrinho de compras
 - Autenticação de usuários
@@ -36,16 +36,10 @@ Sistema web completo com:
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moraissxz&show_icons=true&theme=default)
-
----
-
 ## 📫 Contato
 
-- 💼 LinkedIn: (coloque seu link aqui)
-- 📧 Email: (se quiser colocar)
+- 💼 LinkedIn: https://www.linkedin.com/in/vinicius-morais-franco-086880272/
+- 📧 Email: viniciusmoraisfranco@gmail.com
 
 ---
 
