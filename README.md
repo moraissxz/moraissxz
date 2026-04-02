@@ -15,11 +15,10 @@ Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projeto
 ## 📚 Linguagens e tecnologias que estou estudando
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" alt="Python" align="middle" />
-          
-- PHP
-- Javascript
-- Banco de dados (MySQL, PostgreSQL)
-- Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" alt="PHP" align="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="Javascript" align="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" align="middle" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" align="middle" />
 
 ---
 
