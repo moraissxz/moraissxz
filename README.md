@@ -14,7 +14,7 @@ Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projeto
 
 ## 📚 Linguagens e tecnologias que estou estudando
 
-- Python
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 - PHP
 - Javascript
 - Banco de dados (MySQL, PostgreSQL)
