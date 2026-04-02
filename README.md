@@ -14,7 +14,7 @@ Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projeto
 
 ## 📚 Linguagens e tecnologias que estou estudando
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="<i class="devicon-python-plain"></i>" width="50" alt="Python" align="middle" />
           
 - PHP
 - Javascript
